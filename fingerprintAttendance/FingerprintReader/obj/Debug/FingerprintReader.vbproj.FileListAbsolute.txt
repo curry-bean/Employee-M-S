@@ -1,0 +1,37 @@
+D:\installer\fingerprint SDK\16046\FingerprintReader\obj\Debug\Interop.GrFingerXLib.dll
+D:\installer\fingerprint SDK\16046\FingerprintReader\obj\Debug\AxInterop.GrFingerXLib.dll
+D:\installer\fingerprint SDK\16046\FingerprintReader\obj\Debug\FingerprintReader.vbproj.ResolveComReference.cache
+D:\installer\fingerprint SDK\16046\FingerprintReader\bin\FingerprintReader.exe
+D:\installer\fingerprint SDK\16046\FingerprintReader\bin\FingerprintReader.pdb
+D:\installer\fingerprint SDK\16046\FingerprintReader\bin\FingerprintReader.xml
+D:\installer\fingerprint SDK\16046\FingerprintReader\bin\Interop.GrFingerXLib.dll
+D:\installer\fingerprint SDK\16046\FingerprintReader\bin\AxInterop.GrFingerXLib.dll
+D:\installer\fingerprint SDK\16046\FingerprintReader\obj\Debug\ResolveAssemblyReference.cache
+D:\installer\fingerprint SDK\16046\FingerprintReader\obj\Debug\FingerprintReader.Form1.resources
+D:\installer\fingerprint SDK\16046\FingerprintReader\obj\Debug\FingerprintReader.vbproj.GenerateResource.Cache
+D:\installer\fingerprint SDK\16046\FingerprintReader\obj\Debug\FingerprintReader.exe
+D:\installer\fingerprint SDK\16046\FingerprintReader\obj\Debug\FingerprintReader.xml
+D:\installer\fingerprint SDK\16046\FingerprintReader\obj\Debug\FingerprintReader.pdb
+D:\installer\fingerprint SDK\16046\FingerprintReader\obj\Debug\FingerprintReader.frmMain.resources
+C:\Documents and Settings\bermzkie\Desktop\asscat dtr\FingerprintReader\obj\Debug\Interop.GrFingerXLib.dll
+C:\Documents and Settings\bermzkie\Desktop\asscat dtr\FingerprintReader\obj\Debug\AxInterop.GrFingerXLib.dll
+C:\Documents and Settings\bermzkie\Desktop\asscat dtr\FingerprintReader\obj\Debug\FingerprintReader.vbproj.ResolveComReference.cache
+C:\Documents and Settings\bermzkie\Desktop\asscat dtr\FingerprintReader\obj\Debug\FingerprintReader.exe
+C:\Documents and Settings\bermzkie\Desktop\asscat dtr\FingerprintReader\obj\Debug\FingerprintReader.xml
+C:\Documents and Settings\bermzkie\Desktop\asscat dtr\FingerprintReader\obj\Debug\FingerprintReader.pdb
+C:\Documents and Settings\bermzkie\Desktop\asscat dtr\FingerprintReader\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\bermzkie\Desktop\asscat dtr\FingerprintReader\obj\Debug\FingerprintReader.Form1.resources
+C:\Documents and Settings\bermzkie\Desktop\asscat dtr\FingerprintReader\obj\Debug\FingerprintReader.frmMain.resources
+C:\Documents and Settings\bermzkie\Desktop\asscat dtr\FingerprintReader\obj\Debug\FingerprintReader.vbproj.GenerateResource.Cache
+C:\Documents and Settings\bermzkie\Desktop\asscat dtr\FingerprintReader\bin\FingerprintReader.exe
+C:\Documents and Settings\bermzkie\Desktop\asscat dtr\FingerprintReader\bin\FingerprintReader.pdb
+C:\Documents and Settings\bermzkie\Desktop\asscat dtr\FingerprintReader\bin\FingerprintReader.xml
+C:\Documents and Settings\bermzkie\Desktop\asscat dtr\FingerprintReader\bin\Interop.GrFingerXLib.dll
+C:\Documents and Settings\bermzkie\Desktop\asscat dtr\FingerprintReader\bin\AxInterop.GrFingerXLib.dll
+C:\Documents and Settings\bermzkie\Desktop\asscat dtr\FingerprintReader\obj\Debug\FingerprintReader.Resources.resources
+C:\Documents and Settings\bermzkie\Desktop\asscat dtr\FingerprintReader\obj\Debug\FingerprintReader.INDIVIDUAL_REC.resources
+C:\Documents and Settings\bermzkie\Desktop\asscat dtr\FingerprintReader\obj\Debug\FingerprintReader.newuser.resources
+C:\Documents and Settings\bermzkie\Desktop\asscat dtr\FingerprintReader\obj\Debug\FingerprintReader.student_info.resources
+C:\Documents and Settings\bermzkie\Desktop\asscat dtr\FingerprintReader\obj\Debug\FingerprintReader.frmViewLogin.resources
+C:\Documents and Settings\bermzkie\Desktop\asscat dtr\FingerprintReader\bin\FingerprintReader.exe.config
+C:\Documents and Settings\bermzkie\Desktop\asscat dtr\FingerprintReader\obj\Debug\FingerprintReader.frmReport.resources
