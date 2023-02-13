@@ -13,4 +13,4 @@ Features of the system:
 - Employee's Attendance Records
 - Reports
 
-For more inquiries and need programmer for your thesis systems in any kind of programming languages, just contact my number below. +254714643906
+For more inquiries and need programmer for your thesis systems in any kind of programming languages, just contact my number below. +254714643906/+254745474586
